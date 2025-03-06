@@ -1,6 +1,6 @@
 Bank Transaction Report
-
 [Using Power BI]
+
 **[Problem Statement]**
 
 Bank Transaction Reports provide easy tracking of transactions,
@@ -37,7 +37,7 @@ Total transaction = DISTINCTCOUNT(\'bank transaction_data
 
 **Page 1 (HOME)**
 
-![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/main/Screenshot%202025-03-03%20215333.png)
+![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/afa949c58e447c5fb2aa4c42eee3cd2556d35d7d/Screenshot%202025-03-03%20215333.png)
 
 **Included key performance indicator (KPIs):** Displaying the Total
 Transaction and the Total Transferred Details
@@ -63,7 +63,7 @@ report
 
 **PAGE 2 (Fraud Detection)**
 
-![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/main/Screenshot%202025-03-03%20215347.png)
+![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/afa949c58e447c5fb2aa4c42eee3cd2556d35d7d/Screenshot%202025-03-03%20215347.png)
 In the page2(Fraud detection) all the value has been changed to Fraud
 Flage to detect the number of fraud Transaction has been done in the
 over all region and Device used and the Fraud count will be displayed in
@@ -71,7 +71,7 @@ the Kpi's
 
 **Page 3(Detailed View)**
 
-![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/main/Screenshot%202025-03-03%20215402.png)
+![Alt Text](https://github.com/Aswin007ben/Bank-Transaction-Data/blob/afa949c58e447c5fb2aa4c42eee3cd2556d35d7d/Screenshot%202025-03-03%20215402.png)
 Created a detailed table showcasing the count of fraud detected and the
 transaction failed are indicated in the green and red. This displays a
 table view of the data from the dashboard where easy page navigation has
